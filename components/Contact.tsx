@@ -22,7 +22,7 @@ export default function Contact() {
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto font-light">
             {/* TODO: Customize this description */}
-            Ready to transform your business with AI? Let's talk.
+            Ready to transform your business with AI? Let&rsquo;s talk.
           </p>
         </motion.div>
         
@@ -35,7 +35,7 @@ export default function Contact() {
           >
             <p className="text-gray-600 leading-relaxed font-light">
               {/* TODO: Replace with your company email */}
-              Prefer email? Reach out directly and we’ll reply within one business day.
+              Prefer email? Reach out directly and we&rsquo;ll reply within one business day.
             </p>
             <a
               href="mailto:info@example.com?subject=AI%20Consultancy%20Inquiry"

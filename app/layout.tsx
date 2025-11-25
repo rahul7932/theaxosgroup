@@ -17,8 +17,8 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'AI Consultancy - Transform Your Business with AI',
-  description: 'Leading AI consultancy helping businesses leverage artificial intelligence for growth and innovation.',
+  title: 'The Axos Group',
+  description: 'AI solutions built for your business',
 }
 
 export default function RootLayout({

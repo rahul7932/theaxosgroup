@@ -29,16 +29,16 @@ export default function About() {
                 {/* TODO: Replace with your company's story */}
                 With 10+ years of AI/software experience, we are a team of seasoned engineers looking to deliver
                 bespoke AI solutions to American businesses. We believe that AI should be accessible and actionable for
-                all businesses and want to help companies embraces the power of automation. 
+                all businesses and want to help companies embrace the power of automation. 
               </motion.p>
               <motion.p
                 initial={{ opacity: 0 }}
                 animate={isInView ? { opacity: 1 } : {}}
                 transition={{ delay: 0.4, duration: 0.6 }}
               >
-                We've built software at the worlds biggest companies - now we want to help you do the same. 
-                We'll work with you every step of the way to understand how we can be use AI technology to help
-                you achieve your business goals. We guarantee that we'll deliver something that works in 2 weeks or less.        
+                We&rsquo;ve built software at the world&rsquo;s biggest companies &mdash; now we want to help you do the same. 
+                We&rsquo;ll work with you every step of the way to understand how we can use AI technology to help
+                you achieve your business goals. We guarantee that we&rsquo;ll deliver something that works in two weeks or less.        
               </motion.p>
               <motion.p
                 initial={{ opacity: 0 }}
